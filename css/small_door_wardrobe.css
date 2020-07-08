@@ -44,7 +44,6 @@
 }
 
 
-
 .img{
 	width: 830px;
 	height: 500px;
@@ -53,29 +52,34 @@
 	position: relative;
 	margin-top: 2px;
 }
-
-#door_1{
-	width: 200px;
-	height: 400px;
+#back{
 	position: absolute;
-	top: 50px;
-	left: 150px;
+	left: 265px;
+	width: 300px;
+	height: 494px;
+}
+#door_1{
+	width: 92px;
+	height: 314px;
+	position: absolute;
+	top: 122px;
+	left: 327px;
 	border: 2px solid black;
 }
 #door_2{
-	width: 200px;
-	height: 400px;
+	width: 92px;
+	height: 314px;
 	position: absolute;
-	top: 50px;
-	left:350px;
+	top: 122px;
+	left:418px;
 	border: 2px solid black;
 }
 #door_3{
-	width: 400px;
-	height: 20px;
+	width: 183px;
+	height: 28px;
 	position: absolute;
-	top: 450px;
-	left: 150px;
+	top: 436px;
+	left: 327px;
 	border: 2px solid black;
 }
 #handel1{
@@ -83,8 +87,8 @@
 	width: 0px;
 	height: 50px;
 	position: absolute;
-	top: 200px;
-	left: 340px;
+	top: 250px;
+	left: 408px;
 	border: 1px solid black;
 }
 #handel2{
@@ -92,8 +96,8 @@
 	width: 0px;
 	height: 50px;
 	position: absolute;
-	top: 200px;
-	left: 360px;
+	top: 250px;
+	left: 428px;
 	border: 1px solid black;
 }
 
