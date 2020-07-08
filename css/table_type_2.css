@@ -1,0 +1,137 @@
+.head_furniture-type{
+	background: #333;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 0px;
+}
+.head_furniture-type ul a{
+	text-decoration: none;
+	color: white;
+	padding-left: 100px;
+}
+.head_furniture-type li{
+	display: inline;
+	padding-right: 30px;
+	font-family: Arial;
+	font-size: 22px;
+}
+.head_furniture-type ul a:hover{
+	color: #e3e3e3;
+	text-decoration: underline;
+}
+
+
+
+.head_type{
+	background: #333;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin-top: 0px;
+	border-top: 2px solid white;
+}
+.head_type ul a{
+	text-decoration: none;
+	color: white;
+}
+.head_type li{
+	display: inline;
+	padding-right: 30px;
+	font-family: Arial;
+}
+.head_type ul a:hover{
+	color: #e3e3e3;
+	text-decoration: underline;
+}
+
+
+
+.img{
+	width: 830px;
+	height: 500px;
+	border: 3px solid black;
+	float: left;
+	position: relative;
+	margin-top: 2px;
+}
+/*
+#door_1{
+	width: 200px;
+	height: 400px;
+	position: absolute;
+	top: 50px;
+	left: 150px;
+	border: 2px solid black;
+}
+#door_2{
+	width: 200px;
+	height: 400px;
+	position: absolute;
+	top: 50px;
+	left:350px;
+	border: 2px solid black;
+}
+#door_3{
+	width: 400px;
+	height: 20px;
+	position: absolute;
+	top: 450px;
+	left: 150px;
+	border: 2px solid black;
+}
+#handel1{
+	padding-left: 0px;
+	width: 0px;
+	height: 50px;
+	position: absolute;
+	top: 200px;
+	left: 340px;
+	border: 1px solid black;
+}
+#handel2{
+	padding-left: 0px;
+	width: 0px;
+	height: 50px;
+	position: absolute;
+	top: 200px;
+	left: 360px;
+	border: 1px solid black;
+}*/
+
+
+
+
+
+.btun_left{
+	margin-left: 808px;
+	margin-top: 0px; 
+	width: 450px;
+	overflow: scroll;
+	height: 500px;	
+}
+.btun_left h1{
+	font-family: Arial;
+	color: #333;
+	padding-top: 10px;
+	text-align: center;
+	margin-bottom: 0px;
+}
+#a{
+	width: 150px;
+	height: 150px;
+}
+.btun_left div{
+	width: 150px;
+	height: 220px;
+	background: white;
+	
+	margin-left: 50px;
+	margin-top: 50px;
+	text-align: center;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#lt{
+	float:left;
+}
+#rt{
+	float:right;
+}

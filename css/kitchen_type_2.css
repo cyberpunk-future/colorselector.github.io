@@ -1,0 +1,331 @@
+.head_furniture-type{
+	background: #333;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 0px;
+}
+.head_furniture-type ul a{
+	text-decoration: none;
+	color: white;
+	padding-left: 100px;
+}
+.head_furniture-type li{
+	display: inline;
+	padding-right: 30px;
+	font-family: Arial;
+	font-size: 22px;
+}
+.head_furniture-type ul a:hover{
+	color: #e3e3e3;
+	text-decoration: underline;
+}
+
+
+
+.head_type{
+	background: #333;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin-top: 0px;
+	border-top: 2px solid white;
+}
+.head_type ul a{
+	text-decoration: none;
+	color: white;
+}
+.head_type li{
+	display: inline;
+	padding-right: 30px;
+	font-family: Arial;
+}
+.head_type ul a:hover{
+	color: #e3e3e3;
+	text-decoration: underline;
+}
+
+
+
+.img{
+	width: 830px;
+	height: 500px;
+	border: 3px solid black;
+	float: left;
+	position: relative;
+	margin-top: 2px;
+}
+/*
+#door_1{
+	width: 100px;
+	height: 130px;
+	position: absolute;
+	top: 50px;
+	left: 120px;
+	border: 2px solid black;
+}
+#door_2{
+	width: 100px;
+	height: 130px;
+	position: absolute;
+	top: 50px;
+	left:220px;
+	border: 2px solid black;
+}
+#door_3{
+	width: 450px;
+	height: 20px;
+	position: absolute;
+	top: 450px;
+	left: 120px;
+	border: 2px solid black;
+}
+#door_4{
+	width: 150px;
+	height: 130px;
+	position: absolute;
+	top: 50px;
+	left: 320px;
+	border-top: 1px solid black;
+}*/
+#ktc{
+	width: 150px;
+	height: 130px;
+}/*
+#empty{
+	width: 450px;
+	height: 140px;
+	position: absolute;
+	top: 180px;
+	left: 120px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+#door_5{
+	width: 100px;
+	height: 130px;
+	position: absolute;
+	top: 50px;
+	left: 470px;
+	border: 2px solid black;
+}
+#door_6{
+	width: 100px;
+	height: 65px;
+	position: absolute;
+	top: 320px;
+	left:120px;
+	border: 2px solid black;
+}
+#door_7{
+	width: 100px;
+	height: 65px;
+	position: absolute;
+	top: 320px;
+	left: 220px;
+	border: 2px solid black;
+}
+#door_8{
+	width: 100px;
+	height: 65px;
+	position: absolute;
+	top: 385px;
+	left:120px;
+	border: 2px solid black;
+}
+#door_9{
+	width: 100px;
+	height: 65px;
+	position: absolute;
+	top: 385px;
+	left: 220px;
+	border: 2px solid black;
+}
+#door_10{
+	width: 150px;
+	height: 43.3px;
+	position: absolute;
+	top: 320px;
+	left: 320px;
+	border: 2px solid black;
+}
+#door_11{
+	width: 150px;
+	height: 43.3px;
+	position: absolute;
+	top: 363px;
+	left: 320px;
+	border: 2px solid black;
+}
+#door_12{
+	width: 150px;
+	height: 43.3px;
+	position: absolute;
+	top: 406.3px;
+	left: 320px;
+	border: 2px solid black;
+}
+#door_13{
+	width: 100px;
+	height: 65px;
+	position: absolute;
+	top: 320px;
+	left:470px;
+	border: 2px solid black;
+}
+#door_14{
+	width: 100px;
+	height: 65px;
+	position: absolute;
+	top: 385px;
+	left: 470px;
+	border: 2px solid black;
+}
+
+
+
+#handel1{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 150px;
+	left: 133px;
+	border: 1px solid black;
+}
+#handel2{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 150px;
+	left: 233px;
+	border: 1px solid black;
+}
+#handel3{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 150px;
+	left: 483px;
+	border: 1px solid black;
+}
+#handel4{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 320px;
+	left: 133px;
+	border: 1px solid black;
+}
+#handel5{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 320px;
+	left: 233px;
+	border: 1px solid black;
+}
+#handel6{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 320px;
+	left: 483px;
+	border: 1px solid black;
+}
+#handel7{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 385px;
+	left: 133px;
+	border: 1px solid black;
+}
+#handel8{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 385px;
+	left: 233px;
+	border: 1px solid black;
+}
+#handel9{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 385px;
+	left: 483px;
+	border: 1px solid black;
+}
+#handel10{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 315px;
+	left: 355px;
+	border: 1px solid black;
+}
+#handel11{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 358.3px;
+	left: 355px;
+	border: 1px solid black;
+}
+#handel12{
+	padding-left: 0px;
+	width: 70px;
+	height: 0px;
+	position: absolute;
+	top: 401.5px;
+	left: 355px;
+	border: 1px solid black;
+}
+
+*/
+
+
+
+.btun_left{
+	margin-left: 808px;
+	margin-top: 0px; 
+	width: 450px;
+	overflow: scroll;
+	height: 500px;	
+}
+.btun_left h1{
+	font-family: Arial;
+	color: #333;
+	padding-top: 10px;
+	text-align: center;
+	margin-bottom: 0px;
+}
+#a{
+	width: 150px;
+	height: 150px;
+}
+.btun_left div{
+	width: 150px;
+	height: 220px;
+	background: white;
+	
+	margin-left: 50px;
+	margin-top: 50px;
+	text-align: center;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#lt{
+	float:left;
+}
+#rt{
+	float:right;
+}
