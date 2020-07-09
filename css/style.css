@@ -32,8 +32,9 @@ h2{
 	width:100%;
 }
 .navin img{
-	width: 40%;
-	height: 40%;
+	width: 100%;
+	max-width:500px;
+	height: auto;
 }
 .navin h3 a{
 	position: absolute;
