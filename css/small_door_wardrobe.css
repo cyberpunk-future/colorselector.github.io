@@ -106,7 +106,6 @@ div.head{
 	.btun_leaft{width: 830px;}
 }*/
 .btun_left{
-	float:right;
 	margin-top: 0px; 
 	width: 450px;
 	overflow: scroll;
@@ -127,7 +126,7 @@ div.head{
 	width: 150px;
 	height: 220px;
 	background: white;
-	margin-left: 50px;
+	margin-left: 20px;
 	margin-top: 50px;
 	text-align: center;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
