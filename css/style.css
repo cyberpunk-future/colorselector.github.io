@@ -2,6 +2,8 @@
   box-sizing: border-box;
 }
 h1{
+	margin: auto;
+	text-align: center;
 	font-family: monotype corsiva;
 	font-size: 8vw;
 	color:#333;
