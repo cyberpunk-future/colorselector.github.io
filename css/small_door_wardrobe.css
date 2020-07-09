@@ -1,35 +1,31 @@
-.head_furniture-type{
+
+* {
+  box-sizing: border-box;
+}
+div.head{
+	text-align: center;
 	background: #333;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	margin-top: 0px;
+	width: 100%
+}
+.head_furniture-type{
+	margin: 0px 0px 0px 0px;
 }
 .head_furniture-type ul a{
 	text-decoration: none;
 	color: white;
-	padding-left: 100px;
 }
 .head_furniture-type li{
 	display: inline;
 	padding-right: 30px;
 	font-family: Arial;
-	font-size: 22px;
+	font-size: 3vw;
 }
 .head_furniture-type ul a:hover{
 	color: #e3e3e3;
 	text-decoration: underline;
 }
-
-
-
-.head_type{
-	background: #333;
-	padding-top: 3px;
-	padding-bottom: 3px;
-	margin-top: 0px;
-	border-top: 2px solid white;
-}
 .head_type ul a{
+	font-size: 2vw;
 	text-decoration: none;
 	color: white;
 }
@@ -43,12 +39,13 @@
 	text-decoration: underline;
 }
 
+/******************************************************************************************************/
 
 .img{
 	width: 830px;
 	height: 500px;
-	border: 3px solid black;
 	float: left;
+	border: 3px solid black;
 	position: relative;
 	margin-top: 2px;
 }
@@ -102,11 +99,13 @@
 }
 
 
+/*********************************************************************************************/
 
-
-
+/*@media only screen and (min-width: 830px){
+	.btun_leaft{height: 200px;}
+	.btun_leaft{width: 830px;}
+}*/
 .btun_left{
-	margin-left: 808px;
 	margin-top: 0px; 
 	width: 450px;
 	overflow: scroll;
@@ -127,7 +126,6 @@
 	width: 150px;
 	height: 220px;
 	background: white;
-	
 	margin-left: 50px;
 	margin-top: 50px;
 	text-align: center;
@@ -139,3 +137,4 @@
 #rt{
 	float:right;
 }
+
